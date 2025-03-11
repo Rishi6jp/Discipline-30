@@ -1,3 +1,67 @@
 <resources>
     <string name="app_name">Discipline 30</string>
+    <string name="day1">Accept everything just the way it is </string>
+    <string name="day2">Do not seek pleasure for its own sake </string>
+    <string name="day3">Do not under any circumstances depend on a partial feeling</string>
+    <string name="day4">Think lightly of yourself and deeply of the world</string>
+    <string name="day5">Be detached from desire your whole life long</string>
+    <string name="day6">Do not regret what you have done</string>
+    <string name="day7">Never be jealous </string>
+    <string name="day8">Never let yourself be saddened by a separation</string>
+    <string name="day9">Resentment and complaint are appropriate neither for oneself nor others<tring>
+    <string name="day10">Do not let yourself be guided by the feeling of lust or love</string>
+    <string name="day11">In all things have no preferences</string>
+    <string name="day12">Be indifferent to where you live</string>
+    <string name="day13">Do not pursue the taste of good food</string>
+    <string name="day14">Do not hold on to possessions you no longer need</string>
+    <string name="day15">Do not act following customary beliefs</string>
+    <string name="day16">Do not collect weapons or practice with weapons beyond what is useful </string>
+    <string name="day17">Do not fear death</string>8
+    <string name="day18">Do not seek to possess either Goods or thiefs for your old age</string>
+    <string name="day19">Respect Buddha and the gods without counting on their help God</string>
+    <string name="day20">You may abandon your body but you must preserve your honor</string>
+    <string name="day21">Never stray from the way</string>
+    <string name="day22">Power comes in response to a need, not a desire. You have to create that need.</string>
+    <string name="day23">Hard work betrays none, but dreams betray many.</string>
+    <string name="day24">Forgetting is like a wound. The wound may heal, but it has already left a scar.</string>
+    <string name="day25">A lesson learned with blood is never forgotten.</string>
+    <string name="day26">A person grows up when he has to, when he ceases to whine and do what must be done.</string>
+    <string name="day27">The pain of discipline is far less than the pain of regret.</string>
+    <string name="day28">Discipline is not a form of punishment. It is the path to strength.</string>
+    <string name="day29">It’s not about whether I can or can’t. I’m doing it because I want to.</string>
+    <string name="day30">A person becomes strong when they have something they must protect.</string>
+    <string name="exp1">Rather than wish for a life without suffering look for the strength to Suffer Well and overcome it in the end</string>
+    <string name="exp2">Reject Pleasure which only brings short-term gratification suffer today and live tomorrow as a king among men</string>
+    <string name="exp3">Take your time to consider an important decision weigh its merit with unclouded judgment and you will make the right choice when the times comes</string>
+    <string name="exp4">If you only focus on yourself you will miss the Wonder and knowledge that the world has to offer</string>
+    <string name="exp5">Rather than chase things that you dont need take a moment to step back and enjoy something as simple as a cup of tea or the beauty of a flower in bloom</string>
+    <string name="exp6">Who you are today is not who you were yesterday nor who you will be tomorrow move on and work to become better than you were before</string>
+    <string name="exp7">Rather than covet what others have be grateful for the blessings you have already been</string>
+    <string name="exp8">Loss is a part of life redirect the pain into hard work and continue fulfilling your destiny</string>
+    <string name="exp9">Do not spend your whole life blaming others for your failures take responsibility for your actions and continue working towards success</string>
+    <string name="exp10">When Love is right you wont have to chase it it will come to you number</string>
+    <string name="exp11">Be unbiased open to learn from everyone and everything absorb what is useful reject what is useless add what is essentially your own
+        - Bruce Lee</string>
+    <string name="exp12">It is not where you live that matters but how you live if you put too much value on your home and the possessions within it then the things you own end up owning you
+        - Tyler Durden(Fight Club)</string>
+    <string name="exp13">The overindulgence of good food is beneficial for neither your mind nor your body this moderation in all things but especially in how you eat</string>
+    <string name="exp14">gift your unneeded possessions to those who need it more than you do material Goods cannot buy happiness</string>
+    <string name="exp15">those who follow the status quo will never change the world your time is limited so dont waste it living someone elses life dont be trapped by Dogma which is living with the results of other peoples thinking dont let the noise of others opinions drown out your inner voice
+        - Steve Jobs</string>
+    <string name="exp16">practice what works and discard what doesnt your time is precious spend it wisely</string>
+    <string name="exp17">everybody dies eventually do not let the fear of death stop you from taking risks and achieving greatness foreign death Smiles at us all we can do is smile back
+        - Marcus Aurelius </string>
+    <string name="exp18">your possessions are of the earth and serve no purpose when youre gone all thats left is the impact you leave behind </string>
+    <string name="exp19">has already given you all the tools that you need to Prevail it is up to you and you alone to use them</string>
+    <string name="exp20">never sacrifice who you are and what you believe in Stand Fast in your beliefs no matter the cost</string>
+    <string name="exp21">be unshakable in your Devotion to the set of principles under which you live your life be disciplined and even the strongest storm will fail to break you</string>
+    <string name="exp22">Discipline and urgency fuel real progress, not just wishful thinking.</string>
+    <string name="exp23">Effort and discipline will always yield results, but dreams without action will lead to regret.</string>
+    <string name="exp24">Every hardship leaves its mark, but it also makes you stronger. Learn from your past, don’t let it define you.</string>
+    <string name="exp25">Pain and failure are powerful teachers. Embrace them and become better.</string>
+    <string name="exp26">Maturity comes from responsibility and action, not just time.</string>
+    <string name="exp27">Suffering today through discipline is better than suffering tomorrow through failure.</string>
+    <string name="exp28">True strength comes from mastering yourself, not just your body.</string>
+    <string name="exp29">Discipline isn’t just about ability; it’s about willpower and persistence.</string>
+    <string name="exp30">True strength is born from responsibility and the will to protect what matters.</string>
 </resources>
